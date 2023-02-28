@@ -209,6 +209,12 @@ href="http://www.findmice.org/index">http://www.findmice.org/index</a></td>
 <td>GitHub</td>
 <td><a href="https://github.com/">https://github.com/</a></td>
 </tr>
+</tr>
+<tr class="even">
+<td></td>
+<td>GitLab</td>
+<td><a href="https://gitlab.com/">https://gitlab.com/</a></td>
+</tr>
 <tr class="odd">
 <td></td>
 <td>R</td>
