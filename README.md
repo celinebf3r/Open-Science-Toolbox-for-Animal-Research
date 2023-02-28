@@ -34,7 +34,7 @@ The toolbox is also published on Zenodo: Diederich K, Schmitt K, Schwedhelm P, B
 <tbody>
 <tr class="odd">
 <td rowspan="19"><blockquote>
-<p>Planning</p>
+<p>PLANNING</p>
 </blockquote></td>
 <td>Guidelines</td>
 <td>PREPARE Guidelines</td>
@@ -209,7 +209,6 @@ href="http://www.findmice.org/index">http://www.findmice.org/index</a></td>
 <td>GitHub</td>
 <td><a href="https://github.com/">https://github.com/</a></td>
 </tr>
-</tr>
 <tr class="even">
 <td></td>
 <td>GitLab</td>
@@ -235,8 +234,7 @@ href="https://www.r-project.org/">https://www.r-project.org/</a></td>
 <td>Choosing transparent data visualization</td>
 <td>Paper with a list of free tools for more transparent data
 visualization</td>
-<td><a
-href="https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.118.037777">https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.118.037777</a></td>
+<td><a href="https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.118.037777">https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.118.037777</a></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -245,7 +243,7 @@ href="https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.118.037777">ht
 </tr>
 <tr class="even">
 <td rowspan="29"><blockquote>
-<p>Publication</p>
+<p>PUBLICATION</p>
 </blockquote></td>
 <td>Adopting the FAIR data principles</td>
 <td>A guide on how to implement the FAIR data principles</td>
