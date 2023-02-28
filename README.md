@@ -12,3 +12,15 @@ Diederich K, Schmitt K, Schwedhelm P, Bert B, Heinl C (2022) A guide to open sci
 We will follow the future developments of open science tools that are suitable for animal research and regularly update this toolbox. If you wish to suggest additional tools that should be added to the list, please email us at: OS-toolbox@bfr.bund.de.
 
 The toolbox is also published on Zenodo: Diederich K, Schmitt K, Schwedhelm P, Bert B, Heinl C (2022) A guide to open science practices for animal research. PLOS Biology 20(9): e3001810. https://doi.org/10.1371/journal.pbio.3001810.
+
+
+
+|    | Open science   | Specific Tools  | Corresponding Links         |
+|    | practice       |                 |                             |
+|====|================|=================|=============================|
+| >  | Guidelines     | PREPARE         | <https://norecopa.no/prepare>                      |
+| Pl |                | Guidelines      |  |
+| an |                |                 |                             |
+| ni |                |                 |                             |
+| ng |                |                 |                             |
+|----|----------------|-----------------|-----------------------------|
