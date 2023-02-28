@@ -241,8 +241,7 @@ href="https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.118.037777">ht
 <tr class="odd">
 <td></td>
 <td>Tool to check graph accessibility for color blind persons</td>
-<td><a
-href="https://colororacle.org/index.html">https://colororacle.org/index.html</a></td>
+<td><a href="https://colororacle.org/index.html">https://colororacle.org/index.html</a></td>
 </tr>
 <tr class="even">
 <td rowspan="29"><blockquote>
