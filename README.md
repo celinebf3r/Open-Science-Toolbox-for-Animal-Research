@@ -7,12 +7,11 @@ The Open Science Toolbox for Animal Research was created by the Bf3R to provide 
 The tools listed in the table were selected based on their relevance to the animal research community in terms of their intended function to improve transparency and reproducibility. Inclusion of a tool does not imply endorsement by Bf3R, and exclusion of a tool is based solely on relevance; no assessments of tool quality were made or considered in the development of the Open Science Toolbox.
 
 You can find more detailed information on the different open science practices in our corresponding article:
-Diederich K, Schmitt K, Schwedhelm P, Bert B, Heinl C (2022) A guide to open science practices for animal research. PLOS Biology 20(9): e3001810. https://doi.org/10.1371/journal.pbio.3001810
+Diederich K, Schmitt K, Schwedhelm P, Bert B, Heinl C (2022) A guide to open science practices for animal research. PLOS Biology 20(9): e3001810. <https://doi.org/10.1371/journal.pbio.3001810>
 
 We will follow the future developments of open science tools that are suitable for animal research and regularly update this toolbox. If you wish to suggest additional tools that should be added to the list, please email us at: OS-toolbox@bfr.bund.de.
 
-The toolbox is also published on Zenodo: Diederich K, Schmitt K, Schwedhelm P, Bert B, Heinl C (2022) A guide to open science practices for animal research. PLOS Biology 20(9): e3001810. https://doi.org/10.1371/journal.pbio.3001810.
-
+The toolbox is also published on Zenodo: Diederich K, Schmitt K, Schwedhelm P, Bert B, Heinl C (2022) A guide to open science practices for animal research. PLOS Biology 20(9): e3001810. <https://doi.org/10.1371/journal.pbio.3001810>.
 
 ## Table
 
@@ -197,7 +196,7 @@ repositories</td>
 href="http://www.findmice.org/index">http://www.findmice.org/index</a></td>
 </tr>
 <tr class="odd">
-<td rowspan="7"><blockquote>
+<td rowspan="8"><blockquote>
 <p>ANALYSIS</p>
 </blockquote></td>
 <td>Writing transparent code</td>
