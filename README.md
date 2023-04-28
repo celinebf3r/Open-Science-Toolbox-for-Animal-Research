@@ -11,7 +11,7 @@ Diederich K, Schmitt K, Schwedhelm P, Bert B, Heinl C (2022) A guide to open sci
 
 We will follow the future developments of open science tools that are suitable for animal research and regularly update this toolbox. If you wish to suggest additional tools that should be added to the list, please email us at: OS-toolbox@bfr.bund.de.
 
-The toolbox is also published on Zenodo: Diederich K, Schmitt K, Schwedhelm P, Bert B, Heinl C (2022) A guide to open science practices for animal research. Zenodo. <https://doi.org/10.5281/zenodo.703219>.
+The toolbox is also published on Zenodo: Diederich K, Schmitt K, Schwedhelm P, Bert B, Heinl C (2022) A guide to open science practices for animal research. Zenodo. <https://doi.org/10.5281/zenodo.7032195>.
 
 ## Table
 
