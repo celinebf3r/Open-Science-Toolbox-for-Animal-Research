@@ -32,15 +32,16 @@ The toolbox is also published on Zenodo: Diederich K, Schmitt K, Schwedhelm P, B
 </thead>
 <tbody>
 <tr class="odd">
-<td rowspan="19"><blockquote>
+<td rowspan="21"><blockquote>
 <p>PLANNING</p>
 </blockquote></td>
+<tr class="odd">
 <td>Guidelines</td>
 <td>PREPARE Guidelines</td>
 <td><a
 href="https://norecopa.no/prepare">https://norecopa.no/prepare</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>UKRN Primers</td>
 <td><a
@@ -79,24 +80,29 @@ href="https://www.randomizer.org/">https://www.randomizer.org/</a></td>
 </tr>
 <tr class="even">
 <td></td>
+<td>Tool to support animal researchers in planning their studies: SHADE</td>
+<td><a href="https://research.pasteur.fr/en/software/shade-shiny-application-for-designing-experiments">https://research.pasteur.fr/en/software/shade-shiny-application-for-designing-experiments</a></td>
+</tr>
+<tr class="odd">
+<td></td>
 <td>Creating a sharable scheme with the Experimental Design Assistant
 (EDA)</td>
 <td><a
 href="https://eda.nc3rs.org.uk/">https://eda.nc3rs.org.uk/</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Preregistration</td>
 <td>Preclinicaltrials.eu</td>
 <td><a
 href="https://www.preclinicaltrials.eu/">https://www.preclinicaltrials.eu/</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>Animalstudyregistry.org</td>
 <td><a
 href="https://www.animalstudyregistry.org">https://www.animalstudyregistry.org</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>OSF Registry</td>
 <td><a
@@ -110,8 +116,7 @@ href="https://www.cos.io/initiatives/registered-reports">https://www.cos.io/init
 </tr>
 <tr class="odd">
 <td>Writing a research data management plan</td>
-<td>Research data management checklist from the Harvard Medical
-School</td>
+<td>Research data management checklist from the Harvard Medical School</td>
 <td><a
 href="https://datamanagement.hms.harvard.edu/plan-design">https://datamanagement.hms.harvard.edu/plan-design</a></td>
 </tr>
@@ -150,7 +155,7 @@ href="https://webgate.ec.europa.eu/envdataportal/web/resources/alures/submission
 <td><a
 href="https://concordatopenness.org.uk/guide-to-writing-non-technical-summaries">https://concordatopenness.org.uk/guide-to-writing-non-technical-summaries</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td rowspan="7"><blockquote>
 <p>CONDUCTING EXPERIMENTS</p>
 </blockquote></td>
@@ -241,7 +246,8 @@ visualization</td>
 <td><a href="https://colororacle.org/index.html">https://colororacle.org/index.html</a></td>
 </tr>
 <tr class="even">
-<td rowspan="29"><blockquote>
+<tr class="even">
+<td rowspan="32"><blockquote>
 <p>PUBLICATION</p>
 </blockquote></td>
 <td>Adopting the FAIR data principles</td>
@@ -323,6 +329,11 @@ publication for null results</td>
 href="https://s-quest.bihealth.org/fiddle/">https://s-quest.bihealth.org/fiddle/</a></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td>Platform to publish short reports on negative or inconclusive results</td>
+<td><a href="https://www.fc3r.com/en/FC3R-short-notes.php">https://www.fc3r.com/en/FC3R-short-notes.php</a></td>
+</tr>
+<tr class="odd">
 <td>Publishing open access</td>
 <td>Journals listed by the Directory of Open Access Journals (DOAJ)</td>
 <td><a href="https://doaj.org/">https://doaj.org/</a></td>
@@ -395,6 +406,16 @@ href="https://creativecommons.org/choose/">https://creativecommons.org/choose/</
 <td>Publishing and connecting all outcomes</td>
 <td>Open Science Framework</td>
 <td><a href="https://osf.io/">https://osf.io/</a></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Octopus</td>
+<td><a href="https://www.octopus.ac/">https://www.octopus.ac/</a></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>R= ResearchEquals</td>
+<td><a href="https://www.researchequals.com/">https://www.researchequals.com/</a></td>
 </tr>
 <tr class="even">
 <td>Communicating research</td>
